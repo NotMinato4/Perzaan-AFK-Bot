@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PAfk",
+    "username": "HanitoAfk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NotMinato4-cmKt.aternos.me",
-    "port": 19283,
+    "ip": "Hanitoglgalm.aternos.me
+",
+    "port": 17794,
     "version": "1.21.1"
   },
   "position": {
